@@ -1,0 +1,13 @@
+[Running] cd "/var/folders/3f/t4qptqkd3jx2sdb8300kp6v80000gn/T/" && g++ tempCodeRunnerFile.cpp -o tempCodeRunnerFile && "/var/folders/3f/t4qptqkd3jx2sdb8300kp6v80000gn/T/"tempCodeRunnerFile
+tempCodeRunnerFile.cpp:215:14: error: expected '}'
+  215 |     return 0;
+      |              ^
+tempCodeRunnerFile.cpp:114:1: note: to match this '{'
+  114 | {
+      | ^
+1 error generated.
+
+[Done] exited with code=1 in 0.515 seconds
+
+[Running] cd "/var/folders/3f/t4qptqkd3jx2sdb8300kp6v80000gn/T/" && g++ tempCodeRunnerFile.cpp -o tempCodeRunnerFile && "/var/folders/3f/t4qptqkd3jx2sdb8300kp6v80000gn/T/"tempCodeRunnerFile
+Enter number of coins: 
